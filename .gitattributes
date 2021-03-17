@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
+#Tornando JS principal
+
 * text=auto
 *.JS linguist-detectable=true 
-#Tornando JS principal
